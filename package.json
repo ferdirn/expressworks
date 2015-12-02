@@ -1,0 +1,23 @@
+{
+  "name": "expressworks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ferdirn/expressworks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ferdirn/expressworks/issues"
+  },
+  "homepage": "https://github.com/ferdirn/expressworks#readme",
+  "dependencies": {
+    "express": "^4.11.2",
+    "stylus": "^0.50.0"
+  }
+}
